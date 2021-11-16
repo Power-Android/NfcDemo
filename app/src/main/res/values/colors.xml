@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#77000000</color>
+    <color name="colorPrimaryDark21">#77000000</color>
+
+    <!--app内容的主色调-->
+    <color name="colorAccent">#1676FF</color>
+    <!--app内容主色调按压色-->
+    <color name="colorAccentDark">#1636FF</color>
+
+</resources>
